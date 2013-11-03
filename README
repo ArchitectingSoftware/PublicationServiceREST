@@ -1,5 +1,4 @@
-This is a small demonstration project that I built to demonstrate how to design and build RESTful web services 
-using Spring MVC.
+This is a small demonstration project that I built to demonstrate how to design and build RESTful web services using Spring MVC.
 
 After deploying to a servlet container you can run the services by one of the following URLs:
 
