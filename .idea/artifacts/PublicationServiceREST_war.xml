@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="PublicationServiceREST:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="PublicationServiceREST.war">
+      <element id="artifact" artifact-name="PublicationServiceREST:war exploded" />
+    </root>
+  </artifact>
+</component>
